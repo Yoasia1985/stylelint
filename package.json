@@ -108,7 +108,7 @@
     ]
   },
   "dependencies": {
-    "@stylelint/postcss-css-in-js": "^0.37.2",
+    "@stylelint/postcss-css-in-js": "^0.38.0",
     "@stylelint/postcss-markdown": "^0.36.2",
     "autoprefixer": "^9.8.6",
     "balanced-match": "^1.0.0",
